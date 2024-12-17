@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Work Sans";
+    src: url("../fonts/WorkSans-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Work Sans";
+    src: url("../fonts/WorkSans-Italic.ttf");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Indie Flower";
+    src: url("../fonts/IndieFlower-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Work Sans";
+    src: url("../fonts/WorkSans-Light.ttf");
+    font-weight: 300;
+    font-style: normal;
+}
